@@ -63,7 +63,7 @@ This suite introduces tailored tools to enhance Figma’s design ecosystem:
 ### Screenshots
 
 **AI Prototype Workspace**  
-![Prototype Workspace](https://www.figma.com/community/resource/c040b762-7f9e-4c33-8dcd-c6726f9e62f4/thumbnail)  
+![Prototype Workspace](https://uploads.toptal.io/blog/image/126704/toptal-blog-image-1532711166071-79a2d437ed4fa0600da32750a940e323.png)  
 *Workspace for crafting mobile app prototypes with Figma AI’s auto-layout tools.*  
 
 
